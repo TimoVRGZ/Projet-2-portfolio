@@ -18,3 +18,4 @@
 🔍 Vérification de la cohérence visuelle.
 🔍 Correction des bugs via Issues GitHub.
 🔍 Déploiement sur GitHub Pages.
+travail
